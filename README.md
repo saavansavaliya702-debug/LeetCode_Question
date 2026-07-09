@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/0058-length-of-last-word) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Binary Search
 |  |
