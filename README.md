@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/0007-reverse-integer) |
+| [0066-plus-one](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/0066-plus-one) |
 ## Array
 |  |
 | ------- |
 | [0015-3sum](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/0033-search-in-rotated-sorted-array) |
+| [0066-plus-one](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/0066-plus-one) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2553-separate-the-digits-in-an-array](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/2553-separate-the-digits-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/2784-check-if-array-is-good) |
