@@ -53,4 +53,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2553-separate-the-digits-in-an-array](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/2553-separate-the-digits-in-an-array) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
