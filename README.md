@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/0015-3sum) |
+| [0876-middle-of-the-linked-list](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/0021-merge-two-sorted-lists) |
+| [0876-middle-of-the-linked-list](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
