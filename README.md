@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/0033-search-in-rotated-sorted-array) |
 | [0066-plus-one](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/0066-plus-one) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2553-separate-the-digits-in-an-array](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/2553-separate-the-digits-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/2784-check-if-array-is-good) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/0015-3sum) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2784-check-if-array-is-good](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/2784-check-if-array-is-good) |
 ## Linked List
 |  |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2784-check-if-array-is-good](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/2784-check-if-array-is-good) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/3120-count-the-number-of-special-characters-i) |
 ## String
@@ -71,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/0100-same-tree) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
