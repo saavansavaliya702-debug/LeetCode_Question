@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2325-decode-the-message](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/2325-decode-the-message) |
 | [2784-check-if-array-is-good](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/2784-check-if-array-is-good) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/3120-count-the-number-of-special-characters-i) |
 ## String
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/0058-length-of-last-word) |
 | [0771-jewels-and-stones](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2325-decode-the-message](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/2325-decode-the-message) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Binary Search
 |  |
