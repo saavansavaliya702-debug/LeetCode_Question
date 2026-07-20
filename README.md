@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2553-separate-the-digits-in-an-array](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/2553-separate-the-digits-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/2784-check-if-array-is-good) |
 ## Two Pointers
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2325-decode-the-message](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/2325-decode-the-message) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Binary Search
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+## String Matching
+|  |
+| ------- |
+| [2185-counting-words-with-a-given-prefix](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/2185-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
