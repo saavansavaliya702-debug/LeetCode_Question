@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/0066-plus-one) |
 | [1512-number-of-good-pairs](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/1512-number-of-good-pairs) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Array
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/2553-separate-the-digits-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/2784-check-if-array-is-good) |
 ## Two Pointers
