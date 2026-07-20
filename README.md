@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/0033-search-in-rotated-sorted-array) |
 | [0066-plus-one](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/0066-plus-one) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1816-truncate-sentence](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/1816-truncate-sentence) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/0058-length-of-last-word) |
 | [0771-jewels-and-stones](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/0771-jewels-and-stones) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1816-truncate-sentence](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/2108-find-first-palindromic-string-in-the-array) |
