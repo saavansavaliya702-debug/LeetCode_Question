@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/0066-plus-one) |
+| [1512-number-of-good-pairs](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/1512-number-of-good-pairs) |
 ## Array
 |  |
 | ------- |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/0066-plus-one) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/1512-number-of-good-pairs) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1816-truncate-sentence](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/1816-truncate-sentence) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0771-jewels-and-stones](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1512-number-of-good-pairs](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2325-decode-the-message](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/2325-decode-the-message) |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1512-number-of-good-pairs](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/1512-number-of-good-pairs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## String Matching
 |  |
