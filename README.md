@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2553-separate-the-digits-in-an-array](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/2553-separate-the-digits-in-an-array) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/0015-3sum) |
 | [0876-middle-of-the-linked-list](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/0876-middle-of-the-linked-list) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Sorting
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/0058-length-of-last-word) |
 | [0771-jewels-and-stones](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2325-decode-the-message](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/2325-decode-the-message) |
