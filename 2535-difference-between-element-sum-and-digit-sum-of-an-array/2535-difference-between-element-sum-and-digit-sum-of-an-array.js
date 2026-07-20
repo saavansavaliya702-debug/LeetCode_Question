@@ -15,7 +15,7 @@ var differenceOfSum = function(nums) {
         if (nums[j] < 10) {
             element1 = element1 + nums[j];
         } else {
-            // sum every digit, works for any number of digits (not just 2)
+            
             let num = nums[j];
             while (num > 0) {
                 toy += num % 10;
