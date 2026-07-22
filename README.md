@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/0268-missing-number) |
 | [1512-number-of-good-pairs](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/1512-number-of-good-pairs) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Array
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/0033-search-in-rotated-sorted-array) |
 | [0066-plus-one](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/1512-number-of-good-pairs) |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/0015-3sum) |
+| [0268-missing-number](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2784-check-if-array-is-good](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/2784-check-if-array-is-good) |
 ## Linked List
@@ -55,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/0268-missing-number) |
 | [0771-jewels-and-stones](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/1512-number-of-good-pairs) |
@@ -80,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/0033-search-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
@@ -115,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/1480-running-sum-of-1d-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/saavansavaliya702-debug/LeetCode_Question/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
